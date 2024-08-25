@@ -1,56 +1,8 @@
 [
   {
-    "name": "Fantastic Rubber Tuna",
-    "price": "340.00",
-    "category": "Outdoors",
-    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
-  },
-  {
     "name": "Gorgeous Rubber Tuna",
     "price": "573.00",
     "category": "Music",
     "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
-  },
-  {
-    "name": "Luxurious Fresh Tuna",
-    "price": "961.00",
-    "category": "Sports",
-    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
-  },
-  {
-    "name": "Ergonomic Metal Pants",
-    "price": "806.00",
-    "category": "Toys",
-    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
-  },
-  {
-    "name": "Handcrafted Metal Bike",
-    "price": "407.00",
-    "category": "Automotive",
-    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
-  },
-  {
-    "name": "Refined Rubber Keyboard",
-    "price": "900.00",
-    "category": "Games",
-    "description": "The Football Is Good For Training And Recreational Purposes"
-  },
-  {
-    "name": "Luxurious Fresh Fish",
-    "price": "825.00",
-    "category": "Movies",
-    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
-  },
-  {
-    "name": "Tasty Plastic Chair",
-    "price": "519.00",
-    "category": "Games",
-    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
-  },
-  {
-    "name": "Incredible Fresh Chicken",
-    "price": "684.00",
-    "category": "Shoes",
-    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
   }
 ]
