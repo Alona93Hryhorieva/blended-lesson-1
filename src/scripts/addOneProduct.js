@@ -3,10 +3,10 @@ import * as fs from 'fs/promises';
 import { PATH_DB } from '../constants/products.js';
 
 import { createFakeProduct } from '../utils/createFakeProduct.js';
+import getAllProducts from './getAllProducts.js';
 
 const addOneProduct = async () => {
-  const productList = await fs.readFile(PATH_DB, 'utf-8');
-  const data = productList ? JSON.parse(productList) : [];
+  const data = await getAllProducts();
 
   const newProduct = createFakeProduct();
   data.push(newProduct);
