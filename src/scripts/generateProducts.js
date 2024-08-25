@@ -1,11 +1,11 @@
 import { PATH_DB } from '../constants/products.js';
 import { createFakeProduct } from '../utils/createFakeProduct.js';
 import * as fs from 'node:fs/promises';
+import getAllProducts from './getAllProducts.js';
 
 const generateProduct = async (product) => {
   try {
-    const data = await fs.readFile(PATH_DB, 'utf-8');
-    const getProducts = data ? JSON.parse(data) : [];
+    const getProducts = await getAllProducts();
     for (let i = 0; i < product; i++) {
       const newProduct = createFakeProduct();
       getProducts.push(newProduct);
